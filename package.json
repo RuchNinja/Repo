@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "homepage": "https://[github-username].github.io/[github-repository-name]",
+    "publish": "gh-pages -d src"
+  },
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
+
+
